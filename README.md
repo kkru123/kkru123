@@ -1,5 +1,12 @@
 ### Hi there 👋
-# hello
+# 안녕하세요 :smile:
+
+:thought_balloon: 
+이메일:kkru123@gmail.com
+모바일:010-8574-5703
+
+
+
 <!--
 **kkru123/kkru123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
