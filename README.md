@@ -7,6 +7,9 @@
 모바일::zero::one::zero:-:eight::five::seven::four:-:five::seven::zero::three:
 
 
+현재 진행중인 과정
+AWS클라우드 기반 CS개발자
+<hr>
 
 <!--
 **kkru123/kkru123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
