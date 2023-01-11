@@ -6,7 +6,7 @@
 모바일::zero::one::zero:-:eight::five::seven::four:-:five::seven::zero::three:
 
 
-현재 진행중인 과정
+현재 진행중인 과정 <br>
 AWS클라우드 기반 CS개발자
 <hr>
 ![HTML5](https://img.shields.io/badge/HTML5-#6E9FED)
