@@ -2,7 +2,7 @@
 # 안녕하세요 :smile:
 
 :thought_balloon: 
-이메일:kkru123@gmail.com
+이메일:kkru123@gmail.com<br>
 모바일:010-8574-5703
 
 
