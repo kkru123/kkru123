@@ -10,6 +10,7 @@
 현재 진행중인 과정
 AWS클라우드 기반 CS개발자
 <hr>
+![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
 
 <!--
 **kkru123/kkru123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
