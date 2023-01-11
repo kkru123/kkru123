@@ -1,9 +1,10 @@
 ### Hi there 👋
 # 안녕하세요 :smile:
 
-:thought_balloon: 
+
+:speech_balloon:
 이메일:kkru123@gmail.com<br>
-모바일:010-8574-5703
+모바일::zero::one::zero:-:eight::five::seven::four:-:five::seven::zero::three:
 
 
 
