@@ -11,6 +11,14 @@
 AWS클라우드 기반 CS개발자
 <hr>
 ![HTML5](https://img.shields.io/badge/HTML5-#6E9FED)
+![CSS](https://img.shields.io/badge/CSS-#94EB3E)
+![JS](https://img.shields.io/badge/JS-#5CEEE6)
+![JAVA](https://img.shields.io/badge/JAVA-#FFB2AF)
+![SPRING](https://img.shields.io/badge/SPRING-#FF9614)
+
+
+
+
 
 <!--
 **kkru123/kkru123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
