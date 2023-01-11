@@ -9,7 +9,7 @@
 현재 진행중인 과정 <br>
 AWS클라우드 기반 CS개발자
 <hr>
-![HTML5](https://img.shields.io/badge/HTML5-#6E9FED)
+![HTML5](https://img.shields.io/badge/HTML5-#orange)
 ![CSS](https://img.shields.io/badge/CSS-#94EB3E)
 ![JS](https://img.shields.io/badge/JS-#5CEEE6)
 ![JAVA](https://img.shields.io/badge/JAVA-#FFB2AF)
